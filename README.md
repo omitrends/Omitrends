@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Omitrends
+### Hi there 👋 I'm broken dev
 
 Welcome to my GitHub! I'm a passionate **MERN Stack Developer** who loves building modern, scalable web applications. I specialize in creating end-to-end solutions using:
 
@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate **MERN Stack Developer** who loves buildi
 - 🌱 I’m currently learning: TypeScript, GraphQL, and Next.js for server-side rendering.
 - 👯 I’m looking to collaborate on: Open-source MERN projects or anything creative and challenging!
 - 💬 Ask me about: Full-stack JavaScript, REST APIs, MongoDB performance, or best practices in React.
-- 📫 How to reach me: [omitrends@example.com](mailto:omitrends@example.com) *(replace with your real email)*
+
 
 ---
 
