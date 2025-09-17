@@ -24,6 +24,6 @@
 
 ### 🔥 Contribution Heatmap  
 
-[![Omkar's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=omitrends&bg_color=0d1117&color=79dafa&line=79dafa&point=f4a261&area=true&hide_border=true)](https://github.com/omitrends)
+![GitHub Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=omitrends&theme=tokyonight&hide_border=true)
 
 ⭐️ From [omitrends](https://github.com/omitrends)
