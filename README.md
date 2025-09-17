@@ -22,9 +22,8 @@
 
 ---
 
-### 📈 Contribution Graph  
+### 🔥 Contribution Heatmap  
 
-[![Omkar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omitrends&theme=tokyo-night)](https://github.com/omitrends)
-
+[![Omkar's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=omitrends&bg_color=0d1117&color=79dafa&line=79dafa&point=f4a261&area=true&hide_border=true)](https://github.com/omitrends)
 
 ⭐️ From [omitrends](https://github.com/omitrends)
