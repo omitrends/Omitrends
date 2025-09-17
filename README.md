@@ -24,5 +24,8 @@
 
 ### 🔥 Contribution Heatmap  
 
-![GitHub Contribution Heatmap](https://ghchart.rshah.org/79dafa/omitrends)
+### 📅 Contribution Heatmap  
+
+![GitHub Contribution Heatmap](https://ghchart.rshah.org/omitrends)
+
 ⭐️ From [omitrends](https://github.com/omitrends)
