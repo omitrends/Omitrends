@@ -24,6 +24,5 @@
 
 ### 🔥 Contribution Heatmap  
 
-![GitHub Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=omitrends&theme=tokyonight&hide_border=true)
-
+![GitHub Contribution Heatmap](https://ghchart.rshah.org/79dafa/omitrends)
 ⭐️ From [omitrends](https://github.com/omitrends)
