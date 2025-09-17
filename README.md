@@ -1,47 +1,40 @@
-### Hi there 👋 I'm broken dev
+# Hi there, I'm Omkar Khandagle 👋
 
-Welcome to my GitHub! I'm a passionate **MERN Stack Developer** who loves building modern, scalable web applications. I specialize in creating end-to-end solutions using:
-
-- 🟢 **MongoDB** – NoSQL Database
-- ⚛️ **React.js** – Frontend Library
-- 🌐 **Express.js** – Backend Framework
-- 🔵 **Node.js** – JavaScript Runtime
+🚀 **Software Developer | MERN Stack | Java | DSA Enthusiast**  
+🎓 MCA @ Fergusson College (CGPA: 8.85) | B.Sc. CS (CGPA: 8.54)  
+💻 Passionate about building scalable, user-centric applications with clean code and performance.  
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on: Full-stack web apps with advanced features like real-time data and RESTful APIs.
-- 🌱 I’m currently learning: TypeScript, GraphQL, and Next.js for server-side rendering.
-- 👯 I’m looking to collaborate on: Open-source MERN projects or anything creative and challenging!
-- 💬 Ask me about: Full-stack JavaScript, REST APIs, MongoDB performance, or best practices in React.
-
-
----
-
-### 🛠 Tech Stack
-
-| Tech | Skills |
-|------|--------|
-| 💻 Frontend | HTML, CSS, JavaScript, React.js, Redux, Tailwind CSS |
-| 🛠 Backend | Node.js, Express.js, MongoDB, Mongoose |
-| 🌐 DevOps | Git, GitHub, Vercel, Netlify, Render, Postman |
-| 📦 Others | REST APIs, JWT, Bcrypt, MVC, CORS, WebSockets |
+### 🛠️ Skills
+- **Languages:** Java, JavaScript, TypeScript, Python, C, SQL  
+- **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Prisma, Tailwind CSS, Bootstrap, Recoil  
+- **Databases:** MongoDB, PostgreSQL, NeonDB  
+- **Tools:** Git, GitHub, VS Code, IntelliJ, Figma, Postman, Turborepo  
+- **Other:** WebSockets, Socket.io, JWT, Linux  
 
 ---
 
-### 📈 GitHub Stats
-
-![Omitrends's GitHub stats](https://github-readme-stats.vercel.app/api?username=omitrends&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omitrends&layout=compact&theme=radical)
-
----
-
-### ⚡ Fun Fact
-
-I love clean UI design, meaningful code, and coffee-powered late-night debugging sessions ☕💻.
+### 📂 Featured Projects
+- [**Prescripto**](https://medisphere-frontend-p9to.onrender.com/) – Doctor appointment system with JWT auth and role-based access.  
+- [**Quick Chat**](https://chat-app-fe-one.vercel.app/) – Real-time chat app with Socket.io, JWT authentication.  
+- [**Coursify**](https://coursify-1-jnzu.onrender.com/) – E-learning platform with secure authentication and admin dashboard.  
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+### 📊 DSA & Problem Solving
+- Solved **300+ problems** across platforms  
+- [LeetCode Profile](https://leetcode.com/u/life_of_coder/)  
+
+---
+
+### 📜 Certifications
+- Full Stack Java Development (Seven Mentor)  
+- Full Stack Web Development (Udemy)  
+
+---
+
+### 🌐 Connect with Me
+📧 [omkarworkspace29@gmail.com](mailto:omkarworkspace29@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/omkar-khandagle-9ba64a261)  
+🌍 [Portfolio](https://omkar-khandagle.vercel.app/)  
