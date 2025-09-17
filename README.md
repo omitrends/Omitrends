@@ -1,37 +1,30 @@
-# Hi there 👋, I'm Omi (aka **omitrends**)  
+# Hey there 👋, I'm Omkar Khandagle  
 
-🚀 Passionate about **technology, open-source, and problem-solving**.  
-I love building tools, automations, and applications that make life easier.  
+💻 A passionate **MERN Stack Developer** who loves building **end-to-end web applications**.  
+🚀 Skilled in **Java, DSA, Next.js, and TypeScript**.  
+✨ Always exploring new technologies and improving problem-solving skills.  
 
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Currently learning: **Full-stack development & DevOps**  
-- 💡 Interested in: **AI, cloud, and open-source contributions**  
-- ⚡ Fun fact: I enjoy solving puzzles & experimenting with new tech stacks  
+- 🌱 Currently working on: **Full-stack projects with MERN & Next.js**  
+- 💡 Strong foundation in **Java & Data Structures and Algorithms**  
+- ⚡ Goal: Build scalable apps & contribute to open-source  
 
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** JavaScript, Python, TypeScript, Java  
-- **Frameworks/Libraries:** React, Node.js, Express, Next.js  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **DevOps & Tools:** Git, Docker, GitHub Actions, Linux  
+- **Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Languages:** JavaScript, Java  
+- **Other:** Git, GitHub, REST APIs  
 
 ---
 
-### 📈 GitHub Stats  
-![Omi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omitrends&show_icons=true&theme=tokyonight)  
+### 📈 Contribution Graph  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omitrends&layout=compact&theme=tokyonight)  
+[![Omkar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omitrends&theme=tokyo-night)](https://github.com/omitrends)
 
----
-
-### 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 🌐 [Portfolio](https://yourwebsite.com)  
-
----
 
 ⭐️ From [omitrends](https://github.com/omitrends)
