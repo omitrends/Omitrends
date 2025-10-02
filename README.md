@@ -22,20 +22,6 @@
 
 ---
 
-### 🔥 Contribution Heatmap  
-
-![GitHub Contribution Heatmap](https://ghchart.rshah.org/omitrends)
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omitrends&show_icons=true&count_private=true&theme=radical" alt="Omkar's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omitrends&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</p>
-
----
-
 ### 🔥 Streak Stats  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=omitrends&theme=radical&border_radius=8" alt="GitHub Streak" height="180em" />
